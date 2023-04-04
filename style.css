@@ -90,11 +90,6 @@ td{
     height: 50px;
 }
 
-.table-body tr{
-    height: 30px;
-}
-
-
 /* For screens smaller than 600px */
 @media (max-width: 600px) {
     body {
